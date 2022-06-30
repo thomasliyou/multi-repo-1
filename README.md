@@ -21,6 +21,10 @@
 5. 新垣结衣
 6. 石原里美
 
+老师的网站是[fangyinghang.com](https://fangyinghang.com)
+
+![一张图片](1.png)
+
 `console.log('hello')`
 ```javascript
 console.log('hello')
